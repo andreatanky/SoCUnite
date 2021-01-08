@@ -1,4 +1,4 @@
-# SoCUniteTwo
+# SoCUnite
 
 A new Flutter project.
 
