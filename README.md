@@ -13,20 +13,15 @@ Users are able to create study sessions and invite their peers to join them. The
 ### Forums
 The following are subcategories of the forums:
 
-* My Posts 
-- Displays posts made by the user
+* My Posts - Displays posts made by the user
 
-* Modules/Module feedback and planning 
-- Users can view the module forums for modules that he is taking/ View module feedback for module planning/ View notes for those modules posted by their peers
+* Modules/Module feedback and planning - Users can view the module forums for modules that he is taking/ View module feedback for module planning/ View notes for those modules posted by their peers
 
-* Collaborations 
-- Users can view posts from others who are seeking collaborators on projects
+* Collaborations - Users can view posts from others who are seeking collaborators on projects
 
-* Internship offers 
-- Users can view internship offers
+* Internship offers - Users can view internship offers
 
-* Internship experiences and advices 
-- Users can view internship experiences from seniors at the respective companies
+* Internship experiences and advices - Users can view internship experiences from seniors at the respective companies
 
 - Users can upvote and unvote posts and comments 
 - Users can save posts which will appear in their homepage, and unsave posts from its details page
